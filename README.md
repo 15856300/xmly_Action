@@ -4,7 +4,7 @@
 ### 邀请任务
 - [注册链接直达](https://m.ximalaya.com/xmds-node-spa/apps/speed-growth-activities/web-earn/landing?parentUserId=288652862&channel=2&srcChannel=weixinGroup&srcPicUrl=https%3A%2F%2Ffdfs.xmcdn.com%2Fgroup63%2FM06%2F26%2F3C%2FwKgMcl0Z7-bgXtm3AAAP_-xdbjM707.png&srcText=3) (手机号注册) 
 
-- 如果没人邀请的话，劳烦帮我完成一个新人任务，感谢！
+- 如果没人邀请的话，劳烦帮我完成一个新人任务，感谢！（By:nbzongzong）
 
 ### 食用说明
 GitHub action自动运行，账号信息读取自 Setting -> Secrets 仓库位置
